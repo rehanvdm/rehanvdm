@@ -17,7 +17,7 @@ My favorite languages include JS, TS, Golang and PHP, but I am multilingual and 
 
 - BLOG: [https://www.rehanvdm.com/](https://www.rehanvdm.com/)
 - TWITTER: [der_rehan](https://twitter.com/der_rehan)
-- LinkedIn: [Rehan van der Merwe](https://www.linkedin.com/in/rehan-van-der-merwe-600b40172)
+- LINKEDIN: [Rehan van der Merwe](https://www.linkedin.com/in/rehan-van-der-merwe-600b40172)
 
 I appreciate any cups of coffee to support my blogging and project/product adventures.
 
