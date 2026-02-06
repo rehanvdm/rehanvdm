@@ -1,17 +1,16 @@
 # 👋 I'm Rehan!
 
-## I make things go fast with AWS Serverless
+## I make things go fast with AWS & Serverless
 
-### Turning an unhealthy amount of coffee into outcomes by <b>delivering value beyond code</b>. 
-I am an AWS Community Hero and Founder of [Cloud Glance](https://cloudglance.dev/) which I am building in public.
+### Fueled by coffee, delivering value beyond code. 
 
-I’m a passionate multilingual developer/architect focusing on AWS, Serverless and all that AWS has to offer.
+I am an [AWS Community Hero](https://builder.aws.com/community/heroes) and just [a guy who is a developer for fun](https://rehanvdm.com/just-a-guy).
 
-I organize the AWS PTA Meetup and do the occasional presentation as well. I am an avid blogger, helping the AWS community where possible, always lurking in all the #aws slack channels and answering questions.
+I'm a passionate developer and architect specializing in AWS and serverless technologies. With a focus on performance optimization and scalable solutions, I help teams build fast, reliable, and cost-effective cloud applications.
 
-I have a strong background in Electronic and Electronic Communications Engineering, but my focus has since shifted to focus on everything AWS.
+As an AWS Community Hero, I'm dedicated to sharing knowledge and helping others succeed in their cloud journey. Whether it's through blog posts, open-source contributions, or community engagement, I believe in the power of collaboration and continuous learning.
 
-My favorite languages include JS, TS, Golang and PHP, but I am multilingual and have touched on many industries and technologies.
+When I'm not architecting cloud solutions or writing code, you'll find me exploring new technologies, contributing to open-source projects, enjoying a good cup of coffee, pizza or playing video games. 
 
 ---
 
