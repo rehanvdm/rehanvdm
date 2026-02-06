@@ -18,10 +18,3 @@ When I'm not architecting cloud solutions or writing code, you'll find me explor
 - TWITTER: [der_rehan](https://twitter.com/der_rehan)
 - LINKEDIN: [Rehan van der Merwe](https://www.linkedin.com/in/rehan-van-der-merwe-600b40172)
 
-I appreciate any cups of coffee to support my blogging and project/product adventures.
-
-<a href="https://www.buymeacoffee.com/rehanvdm">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rehanvdm&button_colour=1976d2e0&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff">
-</a>
-
-
